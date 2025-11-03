@@ -1,0 +1,13 @@
+# YOLO Dataset Configuration File
+# Author: Tushar Singh
+
+train: C:/Users/ts255/Downloads/CVIP/CVIP2/dataset/images/train
+val: C:/Users/ts255/Downloads/CVIP/CVIP2/dataset/images/val
+
+# Number of classes
+nc: 2
+
+# Class names
+names: 
+  - person
+  - car

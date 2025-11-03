@@ -1,0 +1,4 @@
+<annotation>
+    <filename>img3.jpg</filename>
+    <object><name>person</name><bndbox><xmin>178</xmin><ymin>109</ymin><xmax>315</xmax><ymax>300</ymax></bndbox></object><object><name>car</name><bndbox><xmin>144</xmin><ymin>139</ymin><xmax>282</xmax><ymax>280</ymax></bndbox></object>
+</annotation>
